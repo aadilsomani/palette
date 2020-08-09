@@ -1,0 +1,12 @@
+{
+    "username": "aadilsomani",
+    "posts": 1,
+    "email": "aadil@palette.com",
+    "password": "ILoveSpark123",
+    "followers": {
+        "SparkHacks": "SparkHacks"
+    },
+    "followercount": 1,
+    "following": {},
+    "followingcount": 0
+}
