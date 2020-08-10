@@ -53,7 +53,7 @@
 * comment()
   * comment() takes four values
     * Username of poster, Commenter, Body of Comment and the post's **unique ID** 
-    * Works in a similar way to like, except the comment body itself is also recorded inthe **postDetails.json** file
+    * Works in a similar way to like(), except the comment body itself is also recorded in the **postDetails.json** file
     * The function will also update the total amount of comments in the same file
     
   Example:
